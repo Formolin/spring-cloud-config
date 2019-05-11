@@ -5,7 +5,7 @@
   </profiles>  
   <label>master</label>  
   <version>9646007f931753d7e96a6dcc9ae34838897a91df</version>  
-  <state/>  
+ 
   <propertySources> 
     <propertySources> 
       <name>https://github.com/topsale/spring-cloud-config/respo/config-client-dev.yml</name>  
